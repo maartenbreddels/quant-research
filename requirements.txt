@@ -1,0 +1,8 @@
+numpy
+scipy
+pandas
+matplotlib
+bqplot
+branca
+ipyleaflet==0.16.0
+solara>=0.16
